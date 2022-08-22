@@ -1,0 +1,25 @@
+{
+  "name": "climate-change-updates",
+  "version": "1.0.0",
+  "description": "A simple API(Web Service) to gather recent climate crisis data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rockyFierro/crispy-octo-guide.git"
+  },
+  "keywords": [
+    "climatecrisis",
+    "api",
+    "nodejs",
+    "express"
+  ],
+  "author": "rocky fierro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rockyFierro/crispy-octo-guide/issues"
+  },
+  "homepage": "https://github.com/rockyFierro/crispy-octo-guide#readme"
+}
