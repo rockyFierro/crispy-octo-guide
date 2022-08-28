@@ -4,7 +4,8 @@
   "description": "A simple API(Web Service) to gather recent climate crisis data.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -21,5 +22,10 @@
   "bugs": {
     "url": "https://github.com/rockyFierro/crispy-octo-guide/issues"
   },
-  "homepage": "https://github.com/rockyFierro/crispy-octo-guide#readme"
+  "homepage": "https://github.com/rockyFierro/crispy-octo-guide#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.12",
+    "express": "^4.18.1"
+  }
 }
